@@ -4,8 +4,6 @@
 
 #ifndef STACK_H
 #define STACK_H
-#include "../../../../Program Files/JetBrains/CLion 2024.1.2/bin/mingw/x86_64-w64-mingw32/include/stdlib.h"
-
 
 struct Node {
     int value;
@@ -14,7 +12,7 @@ struct Node {
 };
 
 class Stack {
-    Node *tail = NULL;
+    Node *tail = nullptr;
     int cap = 0;
 
 public:
