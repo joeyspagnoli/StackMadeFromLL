@@ -1,0 +1,9 @@
+# ninja log v6
+12	541	7677729113636976	CMakeFiles/StackMadeFromLL.dir/Stack.cpp.obj	4c2ae556e105010f
+7	543	7677729113532301	CMakeFiles/StackMadeFromLL.dir/main.cpp.obj	a75ba3efc77fb48f
+543	822	7677729118949773	StackMadeFromLL.exe	78ee1bc5dc695f68
+31	435	7677742120979262	CMakeFiles/StackMadeFromLL.dir/main.cpp.obj	a75ba3efc77fb48f
+38	436	7677742121037908	CMakeFiles/StackMadeFromLL.dir/Stack.cpp.obj	4c2ae556e105010f
+436	541	7677742125012361	StackMadeFromLL.exe	78ee1bc5dc695f68
+6	341	7677742937820021	CMakeFiles/StackMadeFromLL.dir/main.cpp.obj	a75ba3efc77fb48f
+341	419	7677742941166436	StackMadeFromLL.exe	78ee1bc5dc695f68

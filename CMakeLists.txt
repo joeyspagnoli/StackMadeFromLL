@@ -3,4 +3,6 @@ project(StackMadeFromLL)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(StackMadeFromLL main.cpp)
+add_executable(StackMadeFromLL main.cpp
+        Stack.cpp
+        Stack.h)
